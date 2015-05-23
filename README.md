@@ -1,4 +1,4 @@
-# Myapp
+# BMI calculator
 This is the application to calculate BMI.
 You can move one of two sliders to establish you weight and height.
 Then the value of BMi is calculated.
